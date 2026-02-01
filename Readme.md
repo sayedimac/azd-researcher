@@ -47,7 +47,7 @@ cd tdd-azd-researcher
 ```
 3. Next, run `azd init` to initialize the deployment.
 ```
-azd init -t petender/tdd-azd-researcher
+azd init -t petender/azd-researcher
 ```
 4. Run the scenario deployment. Provide a short name for the azd environment; you will get asked for your Azure subscription and Azure Resource Region. 
 ```
